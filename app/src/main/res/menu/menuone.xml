@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Thực đơn mỗi ngày"
+        android:id="@+id/search"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:onClick="" />
+    <item android:title="Thực phẩm dinh dưỡng"
+        android:id="@+id/update"
+        />
+    <item android:title="Ghi chú"
+        android:id="@+id/love"/>
+
+    <item android:title="Tư vấn"
+        android:id="@+id/tưvan"/>
+</menu>
